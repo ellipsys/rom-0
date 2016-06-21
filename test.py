@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
-
 # Title: ZTE, TP-Link, ZynOS, Huawei rom-0 Configuration Decompressor 
-# Author: Osanda Malith Jayathissa (@OsandaMalith)
-# Special thanks to Nick Knight
-# Use this for educational purposes only
-# Author takes no responsibility for any damage you cause
-
 from __future__ import print_function
 import re
 import collections
